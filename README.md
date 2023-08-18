@@ -2,7 +2,7 @@
 Planet Donate is a impactful solution to abide 17 goals and fullfilling it when a crisis occurs in India. It is a platform which connects all the NGOs In India to work on the crisis and people like us can also contribute to it by donating and minimizes the research required to find the perfect NGO.
 <br> 
 <hr>
-<!-- vndvndvndjvnd -->
+
 ## Working Web App can be found here
 
 https://planet-donate.igscs.in
@@ -32,12 +32,12 @@ https://planet-donate.igscs.in
 Clone the repository:
 
 ```bash
-  git clone 
+  git clone https://github.com/apoorva-01/Planet-Donate.git
 ```
 Go to the project directory:
 
 ```bash
-  cd 
+  cd Planet-Donate
 ```
 Install the dependencies for the project:
 
