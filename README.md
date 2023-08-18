@@ -1,12 +1,11 @@
-# PD
-updating soon
-<br> <br>
-It is responsive on every screen devices :)
+# Planet Donate
+Planet Donate is a impactful solution to abide 17 goals and fullfilling it when a crisis occurs in India. It is a platform which connects all the NGOs In India to work on the crisis and people like us can also contribute to it by donating and minimizes the research required to find the perfect NGO.
+<br> 
 <hr>
-
+<!-- vndvndvndjvnd -->
 ## Working Web App can be found here
 
-
+https://planet-donate.igscs.in
 
 ## Tech Stack used is
 
@@ -21,6 +20,11 @@ It is responsive on every screen devices :)
  <hr>
 
 ## Screenshots 
+![homepage](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/560/087/datas/gallery.jpg)
+![ngolist](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/560/088/datas/gallery.jpg)
+![userlist](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/560/089/datas/gallery.jpg)
+![addngo](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/560/090/datas/gallery.jpg)
+![customerdashboard](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/560/091/datas/original.jpeg)
 
 <hr>
 
@@ -38,7 +42,7 @@ Go to the project directory:
 Install the dependencies for the project:
 
 ```bash
-  cd frontend/npm install --legacy-peer-deps
+  npm install 
 ```
 Create build folder:
 
@@ -48,7 +52,7 @@ Create build folder:
 Start the frontend development server:
 
 ```bash
-  npm run start
+  npm run dev
 ```
 Access the application at :
 
@@ -59,40 +63,3 @@ Access the application at :
 
 <hr>
   
-
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/4K2fsVRG)
-# 🚀 RedBrick Hacks 2023: Submission Repository
-Project Name: [  ] (make sure this is the same as your final project name that will go on Devpost)
-
-## 📅 Event Timeline
-
-- **Kick-off**: 11:00am IST, August 12th, 2023
-- **Submission Deadline**: Sharp 11:00am IST, August 13th, 2023
-  - ⚠️ No late submissions will be accepted.
-
-## 📥 How to Submit
-
-- You'll be provided with a **DevPost Link** closer to the deadline.
-- Your final submission should encompass:
-  - Your complete project.
-  - This repository directory.
-  - A concise 2-minute video demo of your project.
-
-## 📌 Commit Guidelines
-
-- 📝 **Your commit history here will play a crucial role during the plagiarism checks post-submission**.
-  - ⏲️ Commit frequently.
-  - 📜 Every bit counts — even the tiniest commits.
-  - 🖋️ Descriptive commit messages can make a difference!
-
-## 📜 Code of Conduct
-
-- We uphold the principles of integrity and respect. Please familiarize yourself with [The RedBrick Hacks Code of Conduct](https://bit.ly/rbh-policy).
-
-## 🌏 Hackathon Theme
-
-🌱 **"Sustainable/Assistive Technology for a Better India"**
-
-## 🥳 Closing
-
-Wishing you all the best. Let the creativity flow and happy hacking!
